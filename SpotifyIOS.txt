@@ -1,0 +1,6 @@
+!Spotify
+!for iOS
+@@||spclient.wg.spotify.com 
+@@||apresolve.spotify.com
+!for tv apps
+@@||api-tv.spotify.com
