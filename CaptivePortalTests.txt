@@ -1,0 +1,18 @@
+!Captive Portal Tests
+
+!Android/Chrome
+@@||connectivitycheck.android.com 
+@@||android.clients.google.com 
+@@||clients3.google.com 
+@@||connectivitycheck.gstatic.com 
+
+!Windows/Microsoft
+@@||msftncsi.com 
+@@||www.msftncsi.com 
+@@||ipv6.msftncsi.com
+
+!iOS/Apple
+@@||captive.apple.com 
+@@||gsp1.apple.com 
+@@||www.apple.com 
+@@||www.appleiphonecell.com
