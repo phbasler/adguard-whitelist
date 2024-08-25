@@ -1,0 +1,2 @@
+!Playstation 5 "Recently Played Games" and Trophies
+@@||telemetry-console.api.playstation.com
