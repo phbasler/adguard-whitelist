@@ -1,0 +1,2 @@
+!Mozilla Firefox Tracking Protection
+@@||tracking-protection.cdn.mozilla.net
