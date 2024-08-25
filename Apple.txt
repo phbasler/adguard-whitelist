@@ -1,0 +1,12 @@
+!Apple
+
+!Apple Music
+@@||itunes.apple.com
+@@||s.mzstatic.com
+
+!Apple ID
+@@||appleid.apple.com
+
+!iOS Weather App
+@@||gsp-ssl.ls.apple.com
+@@||gsp-ssl.ls-apple.com.akadns.net
