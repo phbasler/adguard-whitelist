@@ -1,3 +1,4 @@
 @@||script.ioam.de
 @@/REGEX/(\.|^)joyn\.de$
 @@/REGEX/(\.|^)usercentrics\.eu$
+@@||firebaselogging.googleapis.com^
